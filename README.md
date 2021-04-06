@@ -13,5 +13,5 @@ The purpose of this project is to have hands-on experience with Riverpod state m
 # Demo
 
 <p align="center">
-<img src="./assets/youtube_clone.gif" width="320">
+<img src="./assets/youtube_clone_gif.gif" width="320">
 </p>
